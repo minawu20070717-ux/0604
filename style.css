@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #eef2f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Microsoft JhengHei', sans-serif;
+}
+
+#game-container {
+    box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+    border-radius: 12px;
+    overflow: hidden;
+}
